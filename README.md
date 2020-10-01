@@ -1,0 +1,10 @@
+# ws-samples [![license-badge]][license]
+Web scraping samples.
+
+## Languages
+![python-language-badge]
+
+[python-language-badge]: https://img.shields.io/badge/Python-3.8.2-blue?logo=python&style=for-the-badge
+
+[license-badge]: https://img.shields.io/badge/MIT-gray?style=plastic
+[license]: /LICENSE
