@@ -1,5 +1,5 @@
-# ws-samples [![license-badge]][license]
-Web scraping samples.
+# Web Scraping samples [![license-badge]][license]
+This repository contains all practices during my web scraping training.
 
 ## Languages
 ![python-language-badge]
