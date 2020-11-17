@@ -28,7 +28,8 @@ conda install selenium
 
 [nadio-ref]: https://github.com/Devwarlt
 
-[python-language-badge]: https://img.shields.io/badge/Python-3.8.3-blue?logo=python&style=plastic
+[python-language-badge]: https://img.shields.io/badge/Python-3.8.3-yellow?logo=python&style=plastic
+[jupyter-language-badge]: https://img.shields.io/badge/Notebook-6.0.3-yellow?logo=jupyter&style=plastic
 
 [license-badge]: https://img.shields.io/badge/MIT-gray?style=plastic
 [license]: /LICENSE
