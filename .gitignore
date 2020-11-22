@@ -1,1 +1,3 @@
 chromedriver.exe
+.ipynb_checkpoints/
+*.zip
